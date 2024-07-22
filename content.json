@@ -1,4 +1,14 @@
 {
   "title": "Milk",
-  "body": "iOS Application"
+  "body": "iOS Application",
+  "resources": [
+    {
+      "books": [
+        {
+          "title": "Book",
+          "url": "https://lh3.googleusercontent.com/1pTfYJlLwVTifKj4PlsWPyAg4PcIVBAiVvB8sameSnmm7HRd056abNUIRq33rgry7u9t-ju-eHOnbfqQpK4q_8IwzIXZ4WgrqZW9l7U=s0"
+        }
+      ]
+    }
+  ]
 }
