@@ -5,8 +5,9 @@
     {
       "books": [
         {
-          "title": "Book",
-          "url": "https://lh3.googleusercontent.com/1pTfYJlLwVTifKj4PlsWPyAg4PcIVBAiVvB8sameSnmm7HRd056abNUIRq33rgry7u9t-ju-eHOnbfqQpK4q_8IwzIXZ4WgrqZW9l7U=s0"
+          "title": "Steve Jobs",
+          "coverUrl":"https://covers.openlibrary.org/b/isbn/1594136793-L.jpg",
+          "url": "https://books.apple.com/us/book/steve-jobs/id431617578?itsct=books_box_link&itscg=30200&ls=1"
         }
       ]
     }
