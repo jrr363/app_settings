@@ -8,6 +8,21 @@
           "title": "Steve Jobs",
           "coverUrl":"https://covers.openlibrary.org/b/isbn/1594136793-L.jpg",
           "url": "https://books.apple.com/us/book/steve-jobs/id431617578?itsct=books_box_link&itscg=30200&ls=1"
+        },
+        {
+            "title": "Milk It",
+            "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/0f/88/44/0f884441-3d30-255c-7f4a-955a621438ed/9781788702751.jpg/600x900bb.png",
+            "url": "https://books.apple.com/gb/book/milk-it-everything-you-need-to-know-about-breastfeeding/id1497084153?itsct=books_box_link&itscg=30200&ls=1"
+        },
+        {
+            "title": "The Ultimate Guide to Breastfeeding",
+            "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/4a/ee/ba/4aeeba66-eee2-7dc9-80db-2aacaec6bf10/9781311121585.jpg/600x900bb.png",
+            "url": "https://books.apple.com/us/book/the-ultimate-guide-to-breastfeeding/id981762355?itsct=books_box_link&itscg=30200&ls=1"
+        },
+        {
+            "title": "Breastfeeding Must Haves & Helpful Tips",
+            "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/30/77/2e/30772e48-0660-4f72-d266-b63e1b184dec/cover.png/600x900bb.png",
+            "url": "https://books.apple.com/us/book/breastfeeding-must-haves-helpful-tips/id6449910093?itsct=books_box_link&itscg=30200&ls=1"
         }
       ]
     }
