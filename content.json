@@ -3,36 +3,66 @@
   "body": "iOS Application",
   "resources": [
     {
-      "books": [
+      "media": [
         {
+          "type": "podcast",
+          "title": "Baby Food for Busy Moms",
+          "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/47/15/2a/47152a9e-75a9-4526-456b-720830a3a18b/mza_17449665684405731518.jpg/626x0w.jpg",
+          "url": "https://podcasts.apple.com/us/podcast/baby-food-for-busy-moms/id1735597202?itsct=podcast_box_promote_link&itscg=30200"
+        },
+        {
+          "type": "podcast",
+          "title": "The Kick Pregnancy Podcast",
+          "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/02/de/4e/02de4e14-d57a-7804-b53a-043ce310cc0c/mza_9738885113254559624.jpg/552x0w.jpg",
+          "url": "https://podcasts.apple.com/us/podcast/moms-off-the-record/id1665488006?itsct=podcast_box_promote_link&itscg=30200"
+        },
+        {
+          "type": "podcast",
+          "title": "The Kick Pregnancy Podcast",
+          "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/17/80/a3/1780a3ba-2989-02c5-49a4-d4648cd6f6c0/mza_2962825227912037974.jpg/626x0w.jpg",
+          "url": "https://podcasts.apple.com/us/podcast/the-kick-pregnancy-podcast/id1469497070?itsct=podcast_box_promote_link&itscg=30200"
+        },
+        {
+          "type": "podcast",
+          "title": "The Unfiltered Mom",
+          "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/bd/47/7d/bd477df0-db6e-3db4-5205-6ded61ef6aa2/mza_6212535377877357602.jpg/626x0w.jpg",
+          "url": "https://podcasts.apple.com/us/podcast/the-unfiltered-mom/id1538247135?itsct=podcast_box_promote_link&itscg=30200"
+        },
+        {
+          "type": "book",
           "title": "Steve Jobs",
-          "coverUrl":"https://covers.openlibrary.org/b/isbn/1594136793-L.jpg",
+          "coverUrl": "https://covers.openlibrary.org/b/isbn/1594136793-L.jpg",
           "url": "https://books.apple.com/us/book/steve-jobs/id431617578?itsct=books_box_link&itscg=30200&ls=1"
         },
         {
-            "title": "Milk It",
-            "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/0f/88/44/0f884441-3d30-255c-7f4a-955a621438ed/9781788702751.jpg/600x900bb.png",
-            "url": "https://books.apple.com/gb/book/milk-it-everything-you-need-to-know-about-breastfeeding/id1497084153?itsct=books_box_link&itscg=30200&ls=1"
+          "type": "book",
+          "title": "Milk It",
+          "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication113/v4/0f/88/44/0f884441-3d30-255c-7f4a-955a621438ed/9781788702751.jpg/600x900bb.png",
+          "url": "https://books.apple.com/gb/book/milk-it-everything-you-need-to-know-about-breastfeeding/id1497084153?itsct=books_box_link&itscg=30200&ls=1"
         },
         {
-            "title": "The Ultimate Guide to Breastfeeding",
-            "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/4a/ee/ba/4aeeba66-eee2-7dc9-80db-2aacaec6bf10/9781311121585.jpg/600x900bb.png",
-            "url": "https://books.apple.com/us/book/the-ultimate-guide-to-breastfeeding/id981762355?itsct=books_box_link&itscg=30200&ls=1"
+          "type": "book",
+          "title": "The Ultimate Guide to Breastfeeding",
+          "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication5/v4/4a/ee/ba/4aeeba66-eee2-7dc9-80db-2aacaec6bf10/9781311121585.jpg/600x900bb.png",
+          "url": "https://books.apple.com/us/book/the-ultimate-guide-to-breastfeeding/id981762355?itsct=books_box_link&itscg=30200&ls=1"
         },
         {
-            "title": "Breastfeeding Must Haves & Helpful Tips",
-            "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/30/77/2e/30772e48-0660-4f72-d266-b63e1b184dec/cover.png/600x900bb.png",
-            "url": "https://books.apple.com/us/book/breastfeeding-must-haves-helpful-tips/id6449910093?itsct=books_box_link&itscg=30200&ls=1"
+          "type": "book",
+          "title": "Breastfeeding Must Haves & Helpful Tips",
+          "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication116/v4/30/77/2e/30772e48-0660-4f72-d266-b63e1b184dec/cover.png/600x900bb.png",
+          "url": "https://books.apple.com/us/book/breastfeeding-must-haves-helpful-tips/id6449910093?itsct=books_box_link&itscg=30200&ls=1"
         },
         {
-            "title": "Breastfeeding Quick-Reference Guide",
-            "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/d2/80/95/d28095b8-a97a-05dc-6ac0-863e34f3036b/12716747.jpg/600x900bb.png",
-            "url": "https://books.apple.com/fr/book/breastfeeding-quick-reference-guide/id517131646?itsct=books_box_link&itscg=30200&ls=1"
+          "type": "book",
+          "title": "Breastfeeding Quick-Reference Guide",
+          "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication/v4/d2/80/95/d28095b8-a97a-05dc-6ac0-863e34f3036b/12716747.jpg/600x900bb.png",
+          "url": "https://books.apple.com/fr/book/breastfeeding-quick-reference-guide/id517131646?itsct=books_box_link&itscg=30200&ls=1"
         },
         {
-            "title": "Jurassic Park",
-            "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/77/07/de/7707deb5-468f-4d16-2dfa-e68274d3d972/9780307763051.jpg/600x900bb.png",
-            "url": "https://books.apple.com/us/book/jurassic-park/id522236288?itsct=books_box_link&itscg=30200&ls=1"
+          "type": "book",
+          "title": "Jurassic Park",
+          "coverUrl": "https://is1-ssl.mzstatic.com/image/thumb/Publication124/v4/77/07/de/7707deb5-468f-4d16-2dfa-e68274d3d972/9780307763051.jpg/600x900bb.png",
+          "url": "https://books.apple.com/us/book/jurassic-park/id522236288?itsct=books_box_link&itscg=30200&ls=1"
         }
       ]
     }
